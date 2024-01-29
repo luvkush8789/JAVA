@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "conditional",
+            "request": "launch",
+            "mainClass": "conditional",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
+            "name": "operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
             "name": "exercise",
             "request": "launch",
             "mainClass": "exercise",

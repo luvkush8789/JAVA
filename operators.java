@@ -54,23 +54,29 @@ public class operators {
         // int y = 50;
         // int z = 100;
         // if (x > y && y > z) {
-        //     System.out.println("Hello");
+        // System.out.println("Hello");
         // }
         // if (z > y && z < x) {
-        //     System.out.println("java");
+        // System.out.println("java");
 
         // }
 
         // if ((y + 200) < x && (y + 150) < z) {
-        //     System.out.println("Hello Java");
+        // System.out.println("Hello Java");
         // }
 
-        int x, y, z;
-        x = y = z = 2;
-        x += y;
-        y -= z;
-        z /= (x + y);
-        System.out.println(x + " " + y + " " + z);
+        // int x, y, z;
+        // x = y = z = 2;
+        // x += y;
+        // y -= z;
+        // z /= (x + y);
+        // System.out.println(x + " " + y + " " + z);
+
+        int num = 4;
+        System.out.println(num++);
+        // System.out.println(++num);
+
+        System.out.println(num);
 
     }
 }
