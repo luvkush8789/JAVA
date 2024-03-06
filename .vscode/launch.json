@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
             "name": "conditional",
             "request": "launch",
             "mainClass": "conditional",
