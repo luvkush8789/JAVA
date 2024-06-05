@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
+            "name": "StrongNumber",
+            "request": "launch",
+            "mainClass": "StrongNumber",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "JAVA_ea09d069"
+        },
+        {
+            "type": "java",
             "name": "Overloading",
             "request": "launch",
             "mainClass": "Overloading",
