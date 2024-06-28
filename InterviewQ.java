@@ -2,11 +2,11 @@ import java.util.*;
 
 public class InterviewQ {
 
-    public static void runs(int nrr, int overs) {
-        int totalScore = nrr * overs;
-        System.out.println("the total run is : " + totalScore);
+    // public static void runs(int nrr, int overs) {
+    // int totalScore = nrr * overs;
+    // System.out.println("the total run is : " + totalScore);
 
-    }
+    // }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -21,6 +21,9 @@ public class InterviewQ {
         int nrr = sc.nextInt();
         int overs = 20;
         runs(nrr, overs);
+
+       
+       
 
     }
 }
